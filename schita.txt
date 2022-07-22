@@ -1,0 +1,10 @@
+create table ang (( clineti , varchar2 , 100 , 5 ), (produse, varchar2 , 100 , 9 ),(radu , mihai, 100 , ioana ))
+
+
+create table ang (( clienti , varchar2 , 100 , 5 ),(produse, varchar2, 20, 10))
+
+insert into ang values ( adrian, masini ), (ramo, placa )
+
+select all from ang
+
+delete from ang where clienti = clienti
